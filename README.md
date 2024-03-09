@@ -1,5 +1,5 @@
 
-[My website ](https://mmsaeed509.github.io/00xWolf/)
+[My website ](mmsaeed509.github.io)
 Deployed via GitHub pages
 
 ![preview](./imgs/preview.png)
